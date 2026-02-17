@@ -188,3 +188,6 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+
+# Allowing necessary data
+!data/00-raw/salary_data_raw.csv
